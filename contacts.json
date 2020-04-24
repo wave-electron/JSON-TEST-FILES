@@ -1,0 +1,65 @@
+[
+    {
+        "name" : "Sundar Pichai",
+        "company" : "Google",
+        "job" : "CEO",
+        "age" : 46,
+        "net_worth" : 1200000000,
+        "image" : "https://ichef.bbci.co.uk/news/660/cpsprodpb/AE88/production/_84808644_gettyimages-464948948.jpg"
+        
+    },
+    
+    {
+        "name" : "Satya Nadella",
+        "company" : "Microsoft",
+        "job" : "CEO",
+        "age" : 51,
+        "net_worth" : 126776626,
+        "image" : "https://wallstreetinsanity.com/wp-content/uploads/10-Facts-You-Didnt-Know-About-Microsoft-CEO-Satya-Nadella.jpg"
+    },
+
+    {
+        "name" : "Susan Wojcicki",
+        "company" : "Youtube",
+        "job" : "CEO",
+        "age" : 50,
+        "net_worth" : 500000000,
+        "image" : "https://pbs.twimg.com/profile_images/538756409278472192/CyY45O5O_400x400.jpeg"
+    },
+
+    {
+        "name" : "Tim Cook",
+        "company" : "Apple",
+        "job" : "CEO",
+        "age" : 58,
+        "net_worth" : 625000000,
+        "image" : "https://amp.businessinsider.com/images/5b69e43489c8a12d3a8b468d-750-562.jpg"
+    },
+
+    {
+        "name" : "Elon Musk",
+        "company" : "Tesla",
+        "job" : "CEO",
+        "age" : 47,
+        "net_worth" : 20800000000,
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/400px-Elon_Musk_Royal_Society.jpg"
+    },
+
+    {
+        "name" : "Jack Dorsey",
+        "company" : "Twitter",
+        "job" : "CEO",
+        "age" : 42,
+        "net_worth" : 5500000000,
+        "image" : "https://www.washingtonpost.com/resizer/Lqn4JdiS5gl5qvgWPRSd_43R5Xk=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RIKWQGHMSUI6RC2HXUEXL7LBTE.jpg"
+    },
+
+    {
+        "name" : "Lei Jun",
+        "company" : "Xiaomi",
+        "job" : "CEO",
+        "age" : 42,
+        "net_worth" : 9400000000,
+        "image" : "https://images.forbes.com/media/2014/12/03/1203_lei-jun-xiaomi_825x1100.jpg"
+    }
+]
