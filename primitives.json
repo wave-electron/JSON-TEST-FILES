@@ -1,0 +1,14 @@
+[
+    {
+        "id"   : "1",
+        "name" : "cube",
+        "image" : "https://github.com/wave-electron/JSON-TEST-FILES/blob/master/images/cube.PNG"
+        
+    },
+    
+    {
+        "id" :   "2"
+        "name" : "sphere",
+        "image" : "https://github.com/wave-electron/JSON-TEST-FILES/blob/master/images/cube.PNG"
+    }
+]
